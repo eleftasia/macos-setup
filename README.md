@@ -57,6 +57,13 @@ I highly recommend AGAINST using Homebrew or another macOS package manager to in
 
 ## Finder
 
+### Viewing hidden files
+
+To view hidden files in a single Finder window, use the keyboard combination: `⌘`+`Shift`+`.`.
+
+To permanently view hidden views in all Finder windows, use the shell command:
+`defaults write com.apple.finder AppleShowAllFiles -boolean true; killall Finder`.
+
 ### OpenInTerminal
 
 [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)
