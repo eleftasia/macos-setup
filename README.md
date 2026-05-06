@@ -32,7 +32,7 @@ Make use of macOS manpages for more.
 ## Python
 
 MacOS ships with a default Python installation, located at `usr/bin`.
-**DO NOT USE THIS PYTHON EVER**
+**DO NOT USE THIS PYTHON EVER.**
 This Python is the system Python and is used by the operating system and/or default macOS applications.
 
 To use Python for you own purposes, you need to download your own Python binary.
