@@ -75,6 +75,10 @@ I use [Karabiner Elements](https://karabiner-elements.pqrs.org/) to add complex 
 I primarily use this to make it easier to type `_`s.
 Some of my Karabiner Elements modifications are [here](karabiner-elements-modifications.md).
 
+## Night shift
+
+[flux](https://justgetflux.com/)
+
 ## System management
 
 [Stats](https://mac-stats.com/)
