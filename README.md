@@ -69,6 +69,12 @@ I highly recommend AGAINST using Homebrew or another macOS package manager to in
 
 [Rectangle](https://rectangleapp.com/)
 
+## Keyboard customization
+
+I use [Karabiner Elements](https://karabiner-elements.pqrs.org/) to add complex keybindings that work system-wide.
+I primarily use this to make it easier to type `_`s.
+Some of my Karabiner Elements modifications are [here](karabiner-elements-modifications.md).
+
 ## System management
 
 [Stats](https://mac-stats.com/)
@@ -107,3 +113,9 @@ As a result, you always need a `.gitignore` file that always includes `.DS_Store
 ### GitHub
 
 [GitHub CLI](https://cli.github.com/)
+
+## Linux on Apple Silicon
+
+**PROCEED AT YOUR OWN RISK!**
+
+If you decide you must install a true Linux distribution on your Mac, [Asahi Linux](https://asahilinux.org/) is the way to go.
